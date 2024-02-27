@@ -1,0 +1,3 @@
+Date: 2021.12.31
+Currency Code: 美元
+Sell Rate: 636.99
